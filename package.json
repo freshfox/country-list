@@ -1,0 +1,14 @@
+{
+  "name": "countries",
+  "version": "1.0.0",
+  "description": "A list of countries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dominic Bartl",
+  "license": "MIT",
+  "dependencies": {
+    "world-countries": "^1.8.1"
+  }
+}
