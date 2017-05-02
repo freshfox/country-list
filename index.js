@@ -3,6 +3,7 @@ const EU = ['AUT','BEL','BGR','CYP','CZE','DEU','DNK','ESP','EST','FIN','FRA','G
 
 let mapped = countries.map((country) => {
 	return {
+		id: country.ccn3,
 		cca2: country.cca2,
 		ccn3: country.ccn3,
 		cca3: country.cca3,
